@@ -1,0 +1,35 @@
+Primitive and Reference type
+
+
+--> user input --> command line arguments
+		   Scanner --> Predefined class
+
+
+
+-->4343434343, 3232, 76.90, "Hello", 't' --> int
+
+
+String[10] args 
+
+
+args[11] --> error --> ArrayIndexOutOfBoundsException
+
+
+WAP to sum two values using user input
+
+
+Scanner --> Predefined class --> 
+
+package --> package centric --> different package/folders
+
+package --> package--> sub-package
+
+           folder--> subfolder
+
+
+import packagename; similar to #include<headerfile_name>
+
+import java.util.Scanner;
+
+
+Scanner --> Input, Output, Error
